@@ -1,0 +1,25 @@
+{
+  "name": "npm-lab",
+  "version": "1.0.0",
+  "description": "Practice with exports, imports, and a side of currying",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pletcher/node-js-npm-lab.git"
+  },
+  "keywords": [
+    "learn",
+    "npm",
+    "node.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/pletcher/node-js-npm-lab/issues"
+  },
+  "homepage": "https://github.com/pletcher/node-js-npm-lab#readme"
+}
