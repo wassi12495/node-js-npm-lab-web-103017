@@ -12,6 +12,6 @@ describe('greet()', () => {
     expect(curried).to.be.a('function');
 
     expect(curried('you')).to.equal('Yo, you!');
-    expect(curried('friend')).to equal('Yo, friend!');
+    expect(curried('friend')).to.equal('Yo, friend!');
   });
 });

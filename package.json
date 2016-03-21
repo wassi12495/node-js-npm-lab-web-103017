@@ -18,8 +18,16 @@
     "npm",
     "node.js"
   ],
+  "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
     "url": "https://github.com/pletcher/node-js-npm-lab/issues"
   },
-  "homepage": "https://github.com/pletcher/node-js-npm-lab#readme"
+  "homepage": "https://github.com/pletcher/node-js-npm-lab#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "lodash": "^4.6.1"
+  }
 }
