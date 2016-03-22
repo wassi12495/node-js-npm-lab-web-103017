@@ -9,7 +9,8 @@ describe('package.json', () => {
   it('has the correct devDependencies', () => {
     expect(Object.keys(packageJson.devDependencies)).to.eql([
       'chai',
-      'mocha'
+      'mocha',
+      'mocha-multi'
     ]);
   });
 });
